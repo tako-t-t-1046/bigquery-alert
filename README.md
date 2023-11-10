@@ -1,0 +1,2 @@
+# bigquery-alert
+BigQueryのログを解析して、スキャン量に応じたアラートをSlackへ通知するプログラム
